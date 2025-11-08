@@ -1,4 +1,4 @@
-# Detecting-Parkinson-s-Disease-from-EEG-Signals
+# Detecting-Parkinson's-Disease-from-EEG-Signals
 AI model uses DWT/Entropy features from raw EEG signals to detect PD. The XGBoost classifier with Mutual Information feature selection achieved an exceptional 0.9905 F1-Score. The pipeline includes SHAP/LIME for explainability
 
 Parkinsons Detection using Raw EEG Signals 🧠
